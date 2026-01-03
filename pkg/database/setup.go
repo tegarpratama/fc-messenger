@@ -20,8 +20,8 @@ func SetupDatabase() {
 	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8mb4&parseTime=True&loc=Local",
 		env.GetEnv("DB_USER", ""),
 		env.GetEnv("DB_PASSWORD", ""),
-		env.GetEnv("DB_HOST", "127.0.0.1"),
-		env.GetEnv("DB_PORT", "3306"),
+		env.GetEnv("DB_HOST", ""),
+		env.GetEnv("DB_PORT", ""),
 		env.GetEnv("DB_NAME", ""),
 	)
 
