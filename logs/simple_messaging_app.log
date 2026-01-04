@@ -32,3 +32,20 @@
 2026/01/03 19:32:58 Successfully migrate database
 2026/01/03 19:32:58 successfully connected to mongoDB
 2026/01/03 19:55:57 failed to validate request: Key: 'User.Username' Error:Field validation for 'Username' failed on the 'min' tag
+2026/01/03 20:53:24 Successfully migrate database
+2026/01/03 20:53:24 successfully connected to mongoDB
+2026/01/03 22:17:43 Successfully migrate database
+2026/01/03 22:17:43 successfully connected to mongoDB
+2026/01/03 22:17:43 failed to listen: listen tcp4 0.0.0.0:4000: bind: address already in use
+2026/01/03 22:17:43 failed to listen: listen tcp4 0.0.0.0:8080: bind: address already in use
+2026/01/03 22:18:05 Successfully migrate database
+2026/01/03 22:18:05 successfully connected to mongoDB
+2026/01/03 22:18:05 failed to listen: listen tcp4 0.0.0.0:4000: bind: address already in use
+2026/01/03 22:18:26 Successfully migrate database
+2026/01/03 22:18:26 successfully connected to mongoDB
+2026/01/03 22:18:34 failed to get user session on DB:  record not found
+2026/01/03 22:18:34 failed to get user session on DB:  record not found
+2026/01/03 22:18:35 failed to get user session on DB:  record not found
+2026/01/03 22:18:36 failed to get user session on DB:  record not found
+2026/01/03 22:18:55 Successfully migrate database
+2026/01/03 22:18:56 successfully connected to mongoDB
